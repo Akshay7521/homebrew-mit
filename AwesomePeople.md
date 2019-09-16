@@ -11,4 +11,4 @@ Shaunak Bhagurkar
 Shaunak Bhaiyya
 pavan Bagade Mitra Mandal
 aman wagh
-Akshay kshirsagar 19.8556732,75.2521548,22190
+Akshay kshirsagar Aurangabad 19.8556732,75.2521548,22190
